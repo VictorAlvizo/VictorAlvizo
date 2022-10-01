@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victoralvizo&label=Profile%20views&color=0e75b6&style=flat" alt="victoralvizo" /> </p>
 
-👨‍🎓 - I am a 19 year old student from Chicago working to get into the tech industry as a software developer. I have been programming since I was 11 years old. I started my journey creating scripts in Batch, then moving onto C for application development. I spend my time experimenting with whatever I find interesting.   
+👨‍🎓 - I am a 19 year old student from Chicago working to get into the tech industry as a software developer. I started my journey creating scripts in Batch, then moving onto C for application development. Recently, I have been doing mobile application development. I spend my time experimenting with whatever I find interesting.   
 
 - 🌱 I’m currently working on
   - **Completing a Bachlors in Computer Science**
