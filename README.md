@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently working on
   - **Completing a Bachlors in Computer Science at <a href="https://www.elmhurst.edu/">Elmhurst University</a>**
-  - **Learning Web Development**
+  - **Full Stack Development**
 
 - 📫 Reach me at **victoralvizo3@gmail.com**
 
