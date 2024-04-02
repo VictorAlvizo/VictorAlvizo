@@ -11,7 +11,7 @@
   - **Completing a Bachlors in Computer Science at <a href="https://www.elmhurst.edu/">Elmhurst University</a>**
   - **Full Stack Development**
 
-- 📫 Reach me at **victoralvizo3@gmail.com**
+- 📫 Reach me at **victoralvizo3@yahoo.com**
 
 <h3 align="left">📩 Connect with me:</h3>
 <p align="left">
