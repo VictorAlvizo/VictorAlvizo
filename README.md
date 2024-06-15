@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently working on
   - **Completing a Bachlors in Computer Science at <a href="https://www.elmhurst.edu/">Elmhurst University</a>**
-  - ** SWE intern @ Fetch**
+  - **SWE intern @ <a href="https://fetch.com/">Fetch</a>**
   - **Android Development in Kotlin**
 
 - 📫 Reach me at **victoralvizo3@yahoo.com**
