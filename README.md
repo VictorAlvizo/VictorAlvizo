@@ -11,7 +11,7 @@
   - **Completing a Bachlors in Computer Science at <a href="https://www.elmhurst.edu/">Elmhurst University</a>**
   - **Backend Development in Go** <a href="https://go.dev/"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdevopedia.org%2Fimages%2Farticle%2F135%2F5996.1544439861.png&f=1&nofb=1&ipt=a9516651af898bbdfae5cd0e67ca1d5bb62e80bf135ce405f2767b3357abbf5f&ipo=images" alt="Go Mascot" width="40" height="40"/></a>
   - **iOS Development with Swift** <a href="https://developer.apple.com/swift/"><img src="https://cdn-icons-png.flaticon.com/512/732/732250.png" alt="Swift Logo" width="40" height="40"/></a>
-  - **Building <a href="https://github.com/jalesolutions">Jale</a>** <img src="https://i.ibb.co/PjBnfX9/Asset-7.png" width="30" height="30"/></a>
+  - **Building <a href="https://github.com/jalesolutions">Jale</a>** <a href="https://github.com/jalesolutions"><img src="https://i.ibb.co/PjBnfX9/Asset-7.png" width="30" height="30"/></a>
 
 - 📫 Reach me at **victoralvizo3@yahoo.com**
 
@@ -23,8 +23,8 @@
 <h3 align="left">💻 Languages:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://pluspng.com/img-png/android-png-android-logo-png-1024.png" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/><a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="40" height="40"/></a><a href="https://go.dev/"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdevopedia.org%2Fimages%2Farticle%2F135%2F5996.1544439861.png&f=1&nofb=1&ipt=a9516651af898bbdfae5cd0e67ca1d5bb62e80bf135ce405f2767b3357abbf5f&ipo=images" alt="Go Mascot" width="40" height="40"/></a></p>
 
-<p><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=victoralvizo&show_icons=true&locale=en&theme=tokyonight" alt="victoralvizo" /></p>
+<p><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=VictorAlvizo&show_icons=true&locale=en&theme=tokyonight" alt="victoralvizo" /></p>
 
-<p><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=victoralvizo&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="victoralvizo" /></p>
+<p><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorAlvizo&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="victoralvizo" /></p>
 
-<p><img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=victoralvizo&&theme=tokyonight" alt="victoralvizo" /></p>
+<p><img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=VictorAlvizo&&theme=tokyonight" alt="victoralvizo" /></p>
