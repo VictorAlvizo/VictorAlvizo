@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victoralvizo&label=Profile%20views&color=0e75b6&style=flat" alt="victoralvizo" /> </p>
 
-👨‍🎓 - I am a 21 year old student from Chicago majoring in Computer Science. I started my journey creating scripts in Batch, then moving onto C for application development. Recently, I have been focusing on learning new technologies in relation to Full stack development, but I also spend my time experimenting with whatever I find interesting.   
+👨‍🎓 - I am a 22 year old student from Chicago majoring in Computer Science. I started my journey creating scripts in Batch, then moving onto C for application development. Recently, I have been focusing on learning new technologies in relation to Full stack development, but I also spend my time experimenting with whatever I find interesting.   
 
 - 🌱 I’m currently working on
   - **Completing a Bachlors in Computer Science at <a href="https://www.elmhurst.edu/">Elmhurst University</a>**
