@@ -1,6 +1,6 @@
 <img src="https://cdn.weasyl.com/static/media/77/01/0e/77010edc044346137755293f2d8db89977341e2cce02d6e8558dd9de11dd35be.gif" height="0.5%" />
 <h1 align="center">Hey 👋, I'm Victor Alvizo</h1>
-<h3 align="center">Software Engineer From Chicago 🏙</h3>
+<h3 align="center">Software Engineer 💻 From Chicago 🏙</h3>
 <img align="right" alt="Coding Gif" width="50%" height="auto" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victoralvizo&label=Profile%20views&color=0e75b6&style=flat" alt="victoralvizo" /> </p>
