@@ -1,5 +1,5 @@
 <img src="https://cdn.weasyl.com/static/media/77/01/0e/77010edc044346137755293f2d8db89977341e2cce02d6e8558dd9de11dd35be.gif" height="0.5%" />
-<h1 align="center">Hey 👋, I'm Victor Alvizo</h1>
+<h1 align="center">Hey 👋, I'm Victor Alvizo Orozco </h1>
 <h3 align="center">Software Engineer 💻 From Chicago 🏙</h3>
 <img align="right" alt="Coding Gif" width="50%" height="auto" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
@@ -16,7 +16,7 @@
 
 <h3 align="left">📩 Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/victor-alvizo-b5196123b" target="blank">
+  <a href="https://www.linkedin.com/in/victor-alvizo-orozco-b5196123b/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victor-alvizo-b5196123b" height="30" width="40" />
   </a>
 </p>
