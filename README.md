@@ -10,7 +10,7 @@
 - 🌱 I’m currently working on
   - **Backend Development in Go** <a href="https://go.dev/"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdevopedia.org%2Fimages%2Farticle%2F135%2F5996.1544439861.png&f=1&nofb=1&ipt=a9516651af898bbdfae5cd0e67ca1d5bb62e80bf135ce405f2767b3357abbf5f&ipo=images" alt="Go Mascot" width="40" height="40"/></a>
   - **iOS Development with Swift** <a href="https://developer.apple.com/swift/"><img src="https://cdn-icons-png.flaticon.com/512/732/732250.png" alt="Swift Logo" width="40" height="40"/></a>
-  - **Building <a href="https://github.com/jefespro">Jefes</a>** <a href="https://github.com/jalesolutions"><img src="https://i.ibb.co/PjBnfX9/Asset-7.png" width="30" height="30"/></a>
+  - **Building <a href="https://github.com/jefespro">Jefes</a>** <a href="https://github.com/jefespro"><img src="https://i.ibb.co/PjBnfX9/Asset-7.png" width="30" height="30"/></a>
 
 - 📫 Reach me at **victoralvizo3@yahoo.com**
 
